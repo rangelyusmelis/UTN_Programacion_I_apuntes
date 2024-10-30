@@ -1,0 +1,2 @@
+objetivos de las funciones
+minimizacion: hace el codigo mas simple al separarlos en modulo
